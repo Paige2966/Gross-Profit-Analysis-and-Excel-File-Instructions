@@ -48,4 +48,4 @@ This repository is intended to:
 
 ## 📬 Contact
 
-If you’d like to connect or learn more, feel free to [reach out via LinkedIn](linkedin.com/in/rachel-p-339803204), call me at: (469) 400-6430 or email me at rachelpaige@yahoo.com.
+If you’d like to connect or learn more, feel free to [reach out via LinkedIn]([linkedin.com/in/rachel-p-339803204](https://www.linkedin.com/feed/)), call me at: (469) 400-6430 or email me at rachelpaige@yahoo.com.
