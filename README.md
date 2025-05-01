@@ -29,8 +29,9 @@ Ive built each report from grassroots to highlight key business insights, demons
 - **Includes**: `.pbix` report file and documentation of SQL queries and DAX formulas.
 
 ### 2. **Gross Profit Analysis**
-- **Data Source**:  Data Analysis in Excel and Power BI
-- **Overview**: Imported 7 million rows of data using a columnar database to store unique items to condense data from an SQL.
+- **Data Source**:  Data Analysis in Excel and Power BI. Imported 7 million rows of data using a columnar database to store unique items to condense data from an SQL.
+- **Overview**: Analysis to which region has most sales.  
+- **Insight** Last year West was most, but I have a hunch that is changed? We need to find smallest sales so maybe we can increase promotion there. and many more.
 - **Includes**: Report + logic behind calculated measures.
 
 ### 3. ** Additional Reports: In Progress**
