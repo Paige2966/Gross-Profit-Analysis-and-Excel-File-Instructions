@@ -1,7 +1,8 @@
-# 📊 Gross Profit Analysis Report
+# 📊 Gross Profit Analysis Report (Additional Visuals In Progress)
 
-This repository presents an in-depth gross profit analysis using Excel, SQL, and Power BI. It demonstrates end-to-end data modeling, metric calculation, and visualization practices aimed at delivering financial insights.
-Insight: The West region had most sales . Suggestion: Increase promotions for smallest sales products.
+This repository presents an in-depth gross profit analysis using Excel, SQL, and Power BI. It demonstrates end-to-end data modeling, metric calculation, and visualization practices aimed at delivering financial insights for Gel Boomerang (https://www.gel.boomerange.com).
+
+Insight: The West region had most boomerange sales. Suggestion: Increase promotions for smallest bommerange sales.
 
 ## 🔧 Tools & Technologies
 
