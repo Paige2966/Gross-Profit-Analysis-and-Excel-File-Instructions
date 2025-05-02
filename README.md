@@ -21,7 +21,9 @@ Insight: The West region had most sales . Suggestion: Increase promotions for sm
   - KPIs for financial performance
 - Used DAX to define business logic for metrics like Gross Profit %, Total Revenue, and Cost
 
-## 📂 Folder Structure (In progress)
+## Report Snapshot
+![image](https://github.com/user-attachments/assets/10726c4b-258d-4e42-ad16-557e213fc030)
+
 
 ## 📬 Contact
 
