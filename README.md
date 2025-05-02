@@ -1,7 +1,8 @@
 # 📊 Gross Profit Analysis Report
 
-This project presents an in-depth gross profit analysis using Excel, SQL, and Power BI. It demonstrates end-to-end data modeling, metric calculation, and visualization practices aimed at delivering financial insights.
-Insight: The West region had most sales . Suggestion: Determine smallest sales so maybe we can increase promotion.
+This repository presents an in-depth gross profit analysis using Excel, SQL, and Power BI. It demonstrates end-to-end data modeling, metric calculation, and visualization practices aimed at delivering financial insights.
+Insight: The West region had most sales . Suggestion: Increase promotions for smallest sales products.
+
 ## 🔧 Tools & Technologies
 
 - **Excel Data Model** with Power Pivot and Power Query
