@@ -1,51 +1,26 @@
-# 📊 Power BI Portfolio
+# 📊 Gross Profit Analysis Report
 
-Welcome to my Power BI portfolio repository! This space showcases interactive reports and dashboards I’ve developed using **Power BI**, based on data from **SQL databases**, **Excel files**, and may come from other sources.
-
-Ive built each report from grassroots to highlight key business insights, demonstrate my data modeling and visualization skills, and illustrate my ability to transform raw data into clear, actionable information.
-
----
-
+This project presents an in-depth gross profit analysis using Excel, SQL, and Power BI. It demonstrates end-to-end data modeling, metric calculation, and visualization practices aimed at delivering financial insights.
+Insight: The West region had most sales . Suggestion: Determine smallest sales so maybe we can increase promotion.
 ## 🔧 Tools & Technologies
-- **Power BI Desktop**
-- **SQL (Microsoft SQL Server)** 
-- **SSMS** 
-- **Excel: xlookup, sort, filter, flash, fill**
-- **DAX (Data Analysis Expressions)**
-- **Power Query**
-- **Building Interactive Visuals: Tables, charts, and graphs**
-- **Power Pivot**
-- **Power BI**
-- **Implicit Measures and Automatic Date Grouping**
-- **Columnar Database** 
 
----
+- **Excel Data Model** with Power Pivot and Power Query
+- **SQL** for querying structured data from a columnar database
+- **Power BI Desktop** for visualization and interactive dashboards
+- **DAX (Data Analysis Expressions)** for calculated measures and KPIs
+- **Excel Utilities**: Flash Fill, Sort, Filter, Pivot Tables, Charts
 
-## 📁 Reports
+## 🧠 Features
 
-### 1. **Sales Report & Dashboards**
-- **Data Source**: SQL database
-- **Overview**: Summarize survery results, track sales performance, view product-level trends, and regional breakdowns.
-- **Includes**: `.pbix` report file and documentation of SQL queries and DAX formulas.
+- Created a star schema with a fact table and related dimension tables
+- Built a custom **Revenue Formula** to calculate gross profit accurately
+- Designed Power BI dashboards with:
+  - Bar and line charts
+  - Slicers for dynamic filtering
+  - KPIs for financial performance
+- Used DAX to define business logic for metrics like Gross Profit %, Total Revenue, and Cost
 
-### 2. **Gross Profit Analysis**
-- **Data Source**:  Data Analysis in Excel and Power BI. Imported 7 million rows of data using a columnar database to store unique items to condense data from an SQL.
-- **Overview**: Analysis to which region has most sales.  
-- **Insight** Last year West was most, but I have a hunch that is changed? We need to find smallest sales so maybe we can increase promotion there. and many more.
-- **Includes**: Report + logic behind calculated measures.
-
-### 3. ** Additional Reports: In Progress**
-
-
----
-
-## 📌 Purpose of this Repository
-This repository is intended to:
-- Demonstrate my ability to extract, transform, and visualize data using Power BI.
-- Share my approach to data storytelling through interactive dashboards.
-- Provide examples of real-world business reporting scenarios.
-
----
+## 📂 Folder Structure (In progress)
 
 ## 📬 Contact
 
