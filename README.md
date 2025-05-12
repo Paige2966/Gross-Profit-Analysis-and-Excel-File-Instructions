@@ -1,47 +1,47 @@
 ## 📊 Gross Profit Analysis – Gel Boomerang
 
 ## 🧩 Project Overview
-This project offers an end-to-end financial analysis of Gel Boomerang’s sales data using Excel, SQL, and Power BI. The focus is on gross profit trends, regional and product performance by product type, and strategic opportunities to maximize profitability. The dataset simulates real-world business scenarios and includes calculations for revenue, cost of goods sold (COGS), and gross profit by region, size, and product.
+This project offers an end-to-end financial analysis of Gel Boomerang’s top 10 sales data using Excel, SQL, and Power BI. The focus is on gross profit trends, regional and product performance by product type, and strategic opportunities to maximize profitability. The dataset simulates real-world business scenarios and includes calculations for revenue, cost of goods sold (COGS), and gross profit by region, size, and product.
 
 ## Report Snapshot
 ![image](https://github.com/user-attachments/assets/10726c4b-258d-4e42-ad16-557e213fc030)
 
+![image](https://github.com/user-attachments/assets/f76eccc3-311c-4c45-a5c1-4b06381e0d59)
+
+## Power BI Report 
+https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJLSg?e=YTGyh3
+
+
 
 ## ❓Business Explorations
 
-1. Which regions and product sizes are most and least profitable?
+1. Gross Profit from Gel Boomerang sales broken down by skill level (Category) and individual Products.
+  
+3. Profit trends over time.
 
-2. How does product mix impact gross profit margins?
+4. Which regions and product sizes are most and least profitable? Matrix table on the Gross Profit tab highlights profitability extremes.
+   
+5. How does product mix impact gross profit margins?  Scatter plot on the profit margin tab shows which products are revenue drivers and which are margin-efficient.
 
-3. Are there trends or patterns in profitability across time and region?
-
-4. What are the best opportunities for increasing revenue or reducing cost?
+6. What are the best opportunities for increasing revenue or reducing cost?
 
 
 
 ## 🔍 Key Insights  
 
-1. Regional Performance: 
+1. Gross profit margin is below 25% for all products and category's indicating high production costs, pricing inefficiencies, or thin margins, prompting a review of cost structures or pricing strategies.  
+
+
+2. Regional Performance: 
 
     - The West region accounted for the highest gross profit and most sales volume, indicating strong product-market fit and customer engagement in that area.
 
     -  Smallest boomerangs had the lowest sales volume but the highest profit margins.
 
-2. Product Size Trends:
 
-    - Smallest boomerang sizes had the lowest sales volume and profit contribution, but consistently maintained higher margins.
+3. Time-based Patterns:
 
-    - Larger sizes dominated volume but had lower profit per unit, suggesting potential underpricing or higher cost ratios.
-
-3. Product Mix Impact:
-
-    - The company’s revenue is heavily skewed toward 2–3 SKUs, revealing an overdependence on a limited product set.
-
-4. Time-based Patterns:
-
-    - Monthly sales show consistent peaks in Q2 and Q4, suggesting seasonality or strong campaign performance during those periods.
-
-
+    - Monthly sales show consistent peaks in Q4 (December), suggesting seasonality or strong campaign performance during those periods.
 
 
 
@@ -51,19 +51,23 @@ This project offers an end-to-end financial analysis of Gel Boomerang’s sales 
 
 1. Promote smallest boomerang sizes
    
-   - These products have strong profit margins but low sales. Increasing visibility through bundled offers, ads, or seasonal promotions can boost volume profitably.
+   - Increasing visibility through bundled offers, ads, or seasonal promotions can boost volume profitably.
+
+2. Focus on strategies to increase profitability across all regions by reducing Cost of Goods Sold (COGS):
+
+    - Negotiate Supplier Costs – Renegotiate contracts with vendors to secure better pricing or bulk discounts.
+    - Optimize Inventory Management – Reduce waste, excess stock, and inefficient purchasing practices.
+    - Improve Production Efficiency – Streamline processes, reduce defects, and lower operational costs.
+
 
 3. Focus investment in the West region
    
    - Since it leads in both gross profit and volume, reinforcing efforts here (ads, loyalty campaigns) can generate reliable growth.
 
-5. Evaluate pricing strategies for larger sizes
+4. Evaluate pricing strategies for larger sizes
    
    - Large boomerangs sell well but deliver lower profit per unit. Investigate COGS and adjust pricing or production costs to improve margin.
 
-7. Diversify product performance
-   
-   - Reduce overdependence on 2–3 top products by pushing mid-tier SKUs through bundling or discounts.
 
 
 
@@ -71,18 +75,11 @@ This project offers an end-to-end financial analysis of Gel Boomerang’s sales 
 
 - Total Revenue
 - Total COGS
-- Gross Profit
+- Gross Profit Revenue
 - Gross Margin %
-- Profit by Region & Product Size
-- Top-Selling Products
-- Profitability Trendline
+- Gross Profit by Country  
+- Top 10 Products
 
-
-
-## ⚙️ Technical Highlights
-- SQL: Cleaned, joined, and aggregated transactional sales and cost data
-- Excel: Used for COGS modeling and early KPI definitions
-- Power BI: Developed dynamic dashboards using DAX and data modeling to enable interactive financial analysis by multiple filters (region, time, product)
 
 
 
@@ -111,9 +108,9 @@ This project offers an end-to-end financial analysis of Gel Boomerang’s sales 
 - Built a custom **Revenue Formula** to calculate gross profit accurately
 - Designed Power BI dashboards with:
   - Bar and line charts
-  - Slicers for dynamic filtering
   - KPIs for financial performance
-- Used DAX to define business logic for metrics like Gross Profit %, Total Revenue, and Cost
+  - Maps for Gross Profit by country
+  - Used DAX to define business logic for metrics like Gross Profit %, Total Revenue, and Cost
 
 
 
