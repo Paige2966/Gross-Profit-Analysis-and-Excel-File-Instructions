@@ -15,15 +15,39 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
 
 ## ❓Business Explorations
 
-1. Gross Profit from Gel Boomerang sales broken down by skill level (Category) and individual Products.
+1. Gross Profit from Gel Boomerang sales broken down by skill level (Category) and individual Products. (see the stacked bar chart on the  Gross Profit Report tab to view Gross profit by boomerang skill level).
   
-3. Profit trends over time.
+3. Profit trends over time. (see the line chart on the Gross Profit Report tab to view Total Rev. & Total COGS MoM).
 
-4. Which regions and product sizes are most and least profitable? Matrix table on the Gross Profit tab highlights profitability extremes.
+4. Which regions and product sizes are most and least profitable? (see the Matrix table on the Gross Profit tab to view profitability extremes).
    
-5. How does product mix impact gross profit margins?  Scatter plot on the profit margin tab shows which products are revenue drivers and which are margin-efficient.
+5. How does product mix impact gross profit margins?  (see the Scatter plot on the profit margin tab that shows which products are revenue drivers and which are margin-efficient).
+    - Created a calculated column titled "GP (%)
+     
+      ![image](https://github.com/user-attachments/assets/d5857931-ae1a-4f26-b293-ddcb38c75d4e)
+      ![image](https://github.com/user-attachments/assets/f9d98740-8766-4e4f-9883-51ea4ae1d291)
+      ![image](https://github.com/user-attachments/assets/e4253001-2eaa-4abf-97dc-de3fa384c248)
+      ![image](https://github.com/user-attachments/assets/88b0394b-a874-4716-896f-49b66172f55e)
+
+
+
 
 6. What are the best opportunities for increasing revenue or reducing cost?
+     - Created a calculated column titled "Profit Opportunity" with filters for "Review" & "Healthy". Review suggests the gross profit margin (GP%) is below 25%, meaning the product may not be generating enough profit.           Healthy suggests that the gross profit margin (GP%) is below 25%.
+      
+       ![image](https://github.com/user-attachments/assets/5ce7185d-c49f-406e-ae16-1907029a9a9d)
+       ![image](https://github.com/user-attachments/assets/1eb02b49-1793-4c2a-9fc2-8408b12d7ac6)
+       ![image](https://github.com/user-attachments/assets/7849c5a4-8056-4635-8994-6c92a4e4e4ed)
+       ![image](https://github.com/user-attachments/assets/551e7075-5a81-445b-851b-6eabdb163082)
+       ![image](https://github.com/user-attachments/assets/df35f9ec-f9aa-4229-9b31-1a6594d78d89)
+
+       
+
+
+
+
+     - (see Business Recommendations below)
+
 
 
 
@@ -53,18 +77,22 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
    
    - Increasing visibility through bundled offers, ads, or seasonal promotions can boost volume profitably.
 
-2. Focus on strategies to increase profitability across all regions by reducing Cost of Goods Sold (COGS):
-
+2. Option 1:  Focus on strategies to increase profitability across all regions by reducing Cost of Goods Sold (COGS):
     - Negotiate Supplier Costs – Renegotiate contracts with vendors to secure better pricing or bulk discounts.
     - Optimize Inventory Management – Reduce waste, excess stock, and inefficient purchasing practices.
     - Improve Production Efficiency – Streamline processes, reduce defects, and lower operational costs.
 
+  Option 2:  Adjust Pricing Strategies:
+    - Increase Prices Strategically – Analyze which products can sustain a price increase without losing demand.
+    - Introduce Tiered Pricing – Offer premium versions of products with higher perceived value and pricing flexibility.
+    - Bundle Products – Combine lower-margin items with high-margin ones to improve overall profitability.
 
-3. Focus investment in the West region
+
+4. Focus investment in the West region
    
    - Since it leads in both gross profit and volume, reinforcing efforts here (ads, loyalty campaigns) can generate reliable growth.
 
-4. Evaluate pricing strategies for larger sizes
+5. Evaluate pricing strategies for larger sizes
    
    - Large boomerangs sell well but deliver lower profit per unit. Investigate COGS and adjust pricing or production costs to improve margin.
 
