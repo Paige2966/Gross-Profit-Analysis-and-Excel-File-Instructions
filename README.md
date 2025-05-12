@@ -15,13 +15,25 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
 
 ## ❓Business Explorations
 
-1. Gross Profit from Gel Boomerang sales broken down by skill level (Category) and individual Products. (see the stacked bar chart on the  Gross Profit Report tab to view Gross profit by boomerang skill level).
-  
-3. Profit trends over time. (see the line chart on the Gross Profit Report tab to view Total Rev. & Total COGS MoM).
+1. Gross Profit from Gel Boomerang sales broken down by skill level (Category) and individual Products. (see the stacked bar chart on the  Gross Profit Report tab to view Gross profit by boomerang skill level):
 
-4. Which regions and product sizes are most and least profitable? (see the Matrix table on the Gross Profit tab to view profitability extremes).
-   
-5. How does product mix impact gross profit margins?  (see the Scatter plot on the profit margin tab that shows which products are revenue drivers and which are margin-efficient).
+   ![image](https://github.com/user-attachments/assets/37236e1f-c18a-4228-98be-b2e13fcdd043)
+
+    Filtered by: Category & Product
+
+2. Profit trends over time. (see the line chart on the Gross Profit Report tab to view Total Rev. & Total COGS MoM).
+       ![image](https://github.com/user-attachments/assets/41a8ebb1-f07a-41b9-9040-cb181b170b40)
+       ![image](https://github.com/user-attachments/assets/afdc1a45-469f-4500-9b88-640df78540cb)
+       ![image](https://github.com/user-attachments/assets/22fcfb61-679f-4afa-bd87-57ff99595be8)
+
+
+
+3. Which regions are most and least profitable? (see the area Map on the Gross Profit by Country tab).
+       ![image](https://github.com/user-attachments/assets/89344d03-706e-4570-adc6-43dd6e7b8507)
+
+      Filtered by Country
+
+4. How does product mix impact gross profit margins?  (see the Scatter plot on the profit margin tab that shows which products are revenue drivers and which are margin-efficient).
     - Created a calculated column titled "GP (%)
      
       ![image](https://github.com/user-attachments/assets/d5857931-ae1a-4f26-b293-ddcb38c75d4e)
@@ -32,7 +44,7 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
 
 
 
-6. What are the best opportunities for increasing revenue or reducing cost?
+5. What are the best opportunities for increasing revenue or reducing cost?
      - Created a calculated column titled "Profit Opportunity" with filters for "Review" & "Healthy". Review suggests the gross profit margin (GP%) is below 25%, meaning the product may not be generating enough profit.           Healthy suggests that the gross profit margin (GP%) is below 25%.
       
        ![image](https://github.com/user-attachments/assets/5ce7185d-c49f-406e-ae16-1907029a9a9d)
