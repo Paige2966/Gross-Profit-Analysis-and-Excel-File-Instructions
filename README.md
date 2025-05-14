@@ -25,7 +25,7 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
 
 1. Gross Profit from Gel Boomerang sales broken down by skill level (Category) and individual Products. (see the stacked bar chart on the  Gross Profit Report tab to view Gross profit by boomerang skill level):
 
-  ![image](https://github.com/user-attachments/assets/39944b0c-e814-4919-8abe-d51169aac5d9)
+      ![image](https://github.com/user-attachments/assets/39944b0c-e814-4919-8abe-d51169aac5d9)
 
    Filtered by: Category & Product
 
