@@ -1,4 +1,4 @@
-## 📊 Gross Profit Analysis – Gel Boomerang
+## 📊 Gross Profit Analysis – Gel Boomerang - http://www.gel-boomerang.com/
 
 ## 🧩 Project Overview
 This project offers an end-to-end financial analysis of Gel Boomerang’s top 10 sales data using Excel, SQL, and Power BI. The focus is on gross profit trends, regional and product performance by product type, and strategic opportunities to maximize profitability. The dataset simulates real-world business scenarios and includes calculations for revenue, cost of goods sold (COGS), and gross profit by region, size, and product.
