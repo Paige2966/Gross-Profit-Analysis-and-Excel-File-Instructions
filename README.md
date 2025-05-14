@@ -12,7 +12,8 @@ This project offers an end-to-end financial analysis of Gel Boomerang’s top 10
 
 
 
-![image](https://github.com/user-attachments/assets/ba35ede5-4bac-4470-9d2c-3ca75581deee)
+![image](https://github.com/user-attachments/assets/ce2c4ea6-4792-4c52-bb8e-561a3438c122)
+
 
 
 ## Power BI Report 
