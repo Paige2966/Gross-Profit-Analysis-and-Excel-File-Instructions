@@ -125,7 +125,8 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
     - Optimize Inventory Management – Reduce waste, excess stock, and inefficient purchasing practices.
     - Improve Production Efficiency – Streamline processes, reduce defects, and lower operational costs.
 
-  Option 2:  Adjust Pricing Strategies:
+  
+   Option 2:  Adjust Pricing Strategies:
     - Increase Prices Strategically – Analyze which products can sustain a price increase without losing demand.
     - Introduce Tiered Pricing – Offer premium versions of products with higher perceived value and pricing flexibility.
     - Bundle Products – Combine lower-margin items with high-margin ones to improve overall profitability.
