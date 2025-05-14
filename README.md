@@ -67,7 +67,14 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
        
 6. How do different products contribute to the overall product mix and their impact on gross profit margin by margin category (High Margin vs. Low Margin)?
 
-      ![image](https://github.com/user-attachments/assets/b10fa60e-af3e-496e-bebc-7147415a41a7)
+      ![image](https://github.com/user-attachments/assets/676fe9ef-4daa-4469-a1aa-909a6b849f4f)
+      ![image](https://github.com/user-attachments/assets/58af2780-4d0a-4c31-8fcd-c69c186a82d8)
+      ![image](https://github.com/user-attachments/assets/8155d3db-e8d7-4347-8326-e3651570685d)
+      ![image](https://github.com/user-attachments/assets/a6bff6a3-0afd-4cb7-a57e-79f02b559153)
+
+
+
+
 
 
 
