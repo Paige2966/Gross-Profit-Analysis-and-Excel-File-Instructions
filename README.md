@@ -6,7 +6,14 @@ This project offers an end-to-end financial analysis of Gel Boomerang’s top 10
 ## Report Snapshot
 ![image](https://github.com/user-attachments/assets/10726c4b-258d-4e42-ad16-557e213fc030)
 
+
 ![image](https://github.com/user-attachments/assets/f76eccc3-311c-4c45-a5c1-4b06381e0d59)
+
+
+
+
+![image](https://github.com/user-attachments/assets/ba35ede5-4bac-4470-9d2c-3ca75581deee)
+
 
 ## Power BI Report 
 https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJLSg?e=YTGyh3
@@ -17,9 +24,9 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
 
 1. Gross Profit from Gel Boomerang sales broken down by skill level (Category) and individual Products. (see the stacked bar chart on the  Gross Profit Report tab to view Gross profit by boomerang skill level):
 
-   ![image](https://github.com/user-attachments/assets/37236e1f-c18a-4228-98be-b2e13fcdd043)
+  ![image](https://github.com/user-attachments/assets/39944b0c-e814-4919-8abe-d51169aac5d9)
 
-    Filtered by: Category & Product
+   Filtered by: Category & Product
 
 2. Profit trends over time. (see the line chart on the Gross Profit Report tab to view Total Rev. & Total COGS MoM).
        ![image](https://github.com/user-attachments/assets/41a8ebb1-f07a-41b9-9040-cb181b170b40)
@@ -34,14 +41,17 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
       Filtered by Country
 
 4. Which products are revenue drivers and which are margin-efficient?  (see the Scatter plot on the profit margin tab).
-    - Created a calculated column titled "GP (%)
-     
-      ![image](https://github.com/user-attachments/assets/d5857931-ae1a-4f26-b293-ddcb38c75d4e)
-      ![image](https://github.com/user-attachments/assets/f9d98740-8766-4e4f-9883-51ea4ae1d291)
-      ![image](https://github.com/user-attachments/assets/e4253001-2eaa-4abf-97dc-de3fa384c248)
-      ![image](https://github.com/user-attachments/assets/88b0394b-a874-4716-896f-49b66172f55e)
+   
+      ![image](https://github.com/user-attachments/assets/e847ece9-1562-4095-a110-77cce049c7f0)
+      ![image](https://github.com/user-attachments/assets/a24eca49-9e74-4f4a-9291-fe6d50b352bf)
+      ![image](https://github.com/user-attachments/assets/301bfacb-44d2-4cf1-8608-115a1ddeccb9)
+      ![image](https://github.com/user-attachments/assets/59f2c3b9-5d68-4886-82fe-675dc86346e2)
+      ![image](https://github.com/user-attachments/assets/79c92c0d-cade-4c87-a09a-50c4928495b4)
+      ![image](https://github.com/user-attachments/assets/198d0108-3c31-4e3d-8029-fc44e436af54)
+      ![image](https://github.com/user-attachments/assets/6ddef325-db75-4105-b71c-5b4581e4905f)
 
 
+   
 
 
 5. What are the best opportunities for increasing revenue or reducing cost?
@@ -54,7 +64,9 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
        ![image](https://github.com/user-attachments/assets/df35f9ec-f9aa-4229-9b31-1a6594d78d89)
 
        
+6. How do different products contribute to the overall product mix and their impact on gross profit margin by margin category (High Margin vs. Low Margin)?
 
+      ![image](https://github.com/user-attachments/assets/b10fa60e-af3e-496e-bebc-7147415a41a7)
 
 
 
@@ -80,6 +92,17 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
     - Monthly sales show consistent peaks in Q4 (December), suggesting seasonality or strong campaign performance during those periods.
 
 
+4. Product Mix %:
+   
+      - Showing the percentage share of each product in the total mix. Higher percentages indicate products that contribute more significantly to revenue.
+
+        ✔ Margin Categories: Your chart categorizes products into High Margin and Low Margin, helping identify which products generate the most profit.
+
+        ✔ Insights to Highlight:
+        
+        - Quad dominates the mix, but it primarily falls under Low Margin, meaning it sells a lot but isn't as profitable.
+        - Fun Fly has the most presence in High Margin, indicating strong profitability despite a lower percentage in product mix.
+        - Other products, like Bellen and Bower Aussie Round, show smaller contributions, suggesting their impact on overall margin is more limited.
 
 
 
@@ -119,15 +142,10 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
 - Gross Margin %
 - Gross Profit by Country  
 - Top 10 Products
+- Margin Efficiency vs Revenue Drivers
+- Product Mix Impact on Gross Profit Margin
 
 
-
-
-## 🧠 What I Learned
-- Translating raw sales and cost data into business-impactful financial metrics
-- Understanding profit drivers and using data storytelling to support strategic decisions
-- Creating reusable and scalable financial dashboards for recurring analysis
-- Aligning visual design with stakeholder priorities for financial reporting
 
 
 
@@ -142,15 +160,12 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
 
 
 
-## 🧠 Features
 
-- Created a star schema with a fact table and related dimension tables
-- Built a custom **Revenue Formula** to calculate gross profit accurately
-- Designed Power BI dashboards with:
-  - Bar and line charts
-  - KPIs for financial performance
-  - Maps for Gross Profit by country
-  - Used DAX to define business logic for metrics like Gross Profit %, Total Revenue, and Cost
+## 🧠 What I Learned
+- Translating raw sales and cost data into business-impactful financial metrics
+- Understanding profit drivers and using data storytelling to support strategic decisions
+- Creating scalable financial dashboards for analysis
+- Aligning visual design with stakeholder priorities for financial reporting
 
 
 
