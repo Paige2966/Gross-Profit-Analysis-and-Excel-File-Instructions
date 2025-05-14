@@ -33,7 +33,7 @@ https://1drv.ms/u/c/b8767baa22f6b9c0/EVWrtfYl0h1Bpqe0G9uRwDYBVvBBY3OG9R2um8LjGWJ
 
       Filtered by Country
 
-4. How does product mix impact gross profit margins?  (see the Scatter plot on the profit margin tab that shows which products are revenue drivers and which are margin-efficient).
+4. Which products are revenue drivers and which are margin-efficient?  (see the Scatter plot on the profit margin tab).
     - Created a calculated column titled "GP (%)
      
       ![image](https://github.com/user-attachments/assets/d5857931-ae1a-4f26-b293-ddcb38c75d4e)
